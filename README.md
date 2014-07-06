@@ -1,4 +1,4 @@
 gomdp
 =====
 
-A library for working with Markov Decision Processes (MDPs) and planning algorithms.
+A go library containing scalable solvers and utilities for working with Markov Decision Processes (MDPs).
